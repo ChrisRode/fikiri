@@ -1,0 +1,2 @@
+# fikiri
+Open Innovation project
